@@ -11,3 +11,14 @@ let arr1 : [number, string] = [1, 'hello'];
 console.log(arr1);
 
 
+//! enums 
+
+enum charecters {
+    ONE_PIECE = 'Luffy',
+    NARUTO = 'Naruto',  
+    BLEACH = 'Ichigo',
+
+}
+console.log(charecters.ONE_PIECE);
+console.log(charecters.NARUTO);
+console.log(charecters.BLEACH);
