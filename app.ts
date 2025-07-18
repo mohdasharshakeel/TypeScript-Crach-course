@@ -24,3 +24,5 @@ console.log(charecters.NARUTO);
 console.log(charecters.BLEACH);
 
 let b ;
+
+let c : number = 10; 
