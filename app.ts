@@ -34,3 +34,7 @@ d = 'hello';
 // d.toString(); // This will cause an error if uncommented, as `unknown` type does not have a defined method. 
 
 //! any me typescript ke features off ho jate hai 
+
+function abc(): void {
+    console.log('Hello from abc function');
+}
