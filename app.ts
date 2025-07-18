@@ -22,3 +22,5 @@ enum charecters {
 console.log(charecters.ONE_PIECE);
 console.log(charecters.NARUTO);
 console.log(charecters.BLEACH);
+
+let b ;
