@@ -4,3 +4,10 @@ console.log(a);
 
 let arr :number[] = [1, 2, 3];
 console.log(arr);
+
+//! tuples
+
+let arr1 : [number, string] = [1, 'hello'];
+console.log(arr1);
+
+
