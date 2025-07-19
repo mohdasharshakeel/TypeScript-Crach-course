@@ -38,3 +38,6 @@ d = 'hello';
 function abc(): void {
     console.log('Hello from abc function');
 }
+
+let k: null ;
+
