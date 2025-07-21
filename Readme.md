@@ -1,3 +1,3 @@
 this is typescript crash course ! 
 topic i learn 
-any , unknown ,  tuples , 
+any , unknown ,  tuples , enums
