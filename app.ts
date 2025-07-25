@@ -41,3 +41,5 @@ function abc(): void {
 
 let k: null ;
 
+//console.log(k); // This will log 'null'
+//! this will be give an error 
